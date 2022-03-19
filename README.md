@@ -41,7 +41,7 @@ Features :
 * History Recovery
 * Wifi passwords recovery
 * Automatic saves recovery
-* Process manager
+* Process manager 
 * Kill Proc
 * Suspend Proc
 * Resume Proc
