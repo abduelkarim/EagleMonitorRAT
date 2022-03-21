@@ -15,7 +15,7 @@ Inspirations & Sources :
 Under MIT License [LICENSE](https://github.com/arsium/EagleMonitor/blob/main/LICENSE).
 
 Depencencies : 
-
+ 
 * MRG.Controls.UI (UI)
 * XanderUI (UI)
 * Siticone.UI (UI)
