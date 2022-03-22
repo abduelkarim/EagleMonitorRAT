@@ -23,7 +23,7 @@ Depencencies :
 * Newtonsoft.Json (configuration)
 * BouncyCastle (file manager encryption/decryption) : https://www.bouncycastle.org/
 * Compression : http://www.quicklz.com/download.html
-* RSM : https://bhf.im/threads/438711/
+* RSM : https://bhf.im/threads/438711/ 
 * Load native dll and pe : https://github.com/schellingb/DLLFromMemory-net
 * WebCam : inspired by AsyncRat : https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/blob/master/AsyncRAT-C%23/Plugin/RemoteCamera/RemoteCamera/Packet.cs
 
